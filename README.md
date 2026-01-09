@@ -1,5 +1,18 @@
 # 💫 About Me:
-Hi, I’m Ala<br>🔭 What I’m working on<br><br>Building mobile apps with React Native & TypeScript<br><br>Developing full-stack projects using Java EE (Servlets, JSP, JPA/Hibernate)<br><br>Exploring AI-assisted coding & agentic AI for code generation<br><br>Designing multilingual apps (Arabic / English / French) with clean UX<br><br>👯 Looking to collaborate on<br><br>React Native or Expo mobile applications<br><br>Open-source projects related to frontend, mobile, or AI tooling<br><br>Startup-style apps with real-world use cases<br><br>Projects focused on performance, scalability, and good architecture<br><br>🤝 Looking to help with<br><br>React Native & TypeScript best practices<br><br>Form handling, validation, and UI logic<br><br>API integration and app architecture<br><br>Debugging, refactoring, and code optimization
+Hi, I’m Ala<br><br>
+🔭 What I’m working on<br><br>
+Mobile apps with React Native & TypeScript<br>
+Full-stack Java EE projects (Servlets, JSP, JPA/Hibernate)<br>
+AI-assisted coding & agentic AI<br>
+Multilingual apps (AR / EN / FR) with clean UX<br><br>
+👯 Looking to collaborate on<br><br>
+React Native / Expo apps<br>
+Open-source frontend, mobile, or AI projects<br>
+Startup-style, real-world applications<br><br>
+🤝 Looking to help with<br><br>
+React Native & TypeScript best practices<br>
+Forms, validation, and UI logic<br>
+API integration, debugging & optimization
 
 
 ## 🌐 Socials:
